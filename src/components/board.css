@@ -1,0 +1,154 @@
+.board{
+    background-color: black;
+    width: 150px;
+    height: 200px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.shape{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background-color: blue;
+}
+
+.shape11{
+    top: 0;
+    left: 60px;
+}
+
+.shape12{
+    top: 0;
+    left: 70px;
+}
+
+.shape13{
+    top: 10px;
+    left: 60px;
+}
+
+.shape14{
+    top: 10px;
+    left: 70px;
+}
+
+.shape21{
+    top: 10px;
+    left: 60px;
+}
+
+.shape22{
+    top: 10px;
+    left: 70px;
+}
+
+.shape23{
+    top: 10px;
+    left: 80px;
+}
+
+.shape24{
+    top: 0;
+    left: 80px;
+}
+
+.shape31{
+    top: 0;
+    left: 60px;
+}
+
+.shape32{
+    top: 0;
+    left: 70px;
+}
+
+.shape33{
+    top: 10px;
+    left: 70px;
+}
+
+.shape34{
+    top: 10px;
+    left: 80px;
+}
+
+.shape41{
+    top: 10px;
+    left: 60px;
+}
+
+.shape42{
+    top: 0;
+    left: 70px;
+}
+
+.shape43{
+    top: 10px;
+    left: 70px;
+}
+
+.shape44{
+    top: 0;
+    left: 80px;
+}
+
+.shape51{
+    top: 0;
+    left: 60px;
+}
+
+.shape52{
+    top: 10px;
+    left: 60px;
+}
+
+.shape53{
+    top: 10px;
+    left: 70px;
+}
+
+.shape54{
+    top: 10px;
+    left: 80px;
+}
+
+.shape61{
+    top: 10px;
+    left: 60px;
+}
+
+.shape62{
+    top: 10px;
+    left: 70px;
+}
+
+.shape63{
+    top: 0;
+    left: 70px;
+}
+
+.shape64{
+    top: 10px;
+    left: 80px;
+}
+
+.shape71{
+    top: 0;
+    left: 60px;
+}
+
+.shape72{
+    top: 0;
+    left: 70px;
+}
+
+.shape73{
+    top: 0;
+    left: 80px;
+}
+
+.shape74{
+    top: 0;
+    left: 90px;
+}
